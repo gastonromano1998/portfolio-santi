@@ -19,6 +19,10 @@
   font-weight: normal;
   font-style: normal;
 }
+
+.imagen-home {
+    width: 100;
+}
  
  [class^="icon-"]:before, [class*=" icon-"]:before {
   font-family: "fontello";
