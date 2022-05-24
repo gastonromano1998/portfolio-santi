@@ -20,6 +20,7 @@
   font-style: normal;
 }
 
+
 /* social */
 .social-body{
 	position:fixed;
@@ -60,9 +61,7 @@
 	background:#CB2028;
 }
 
-.imagen-home {
-    width: 100;
-}
+
  
  [class^="icon-"]:before, [class*=" icon-"]:before {
   font-family: "fontello";
